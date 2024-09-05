@@ -17,12 +17,12 @@ layout:
     visible: true
 ---
 
-# Welcome
+# About
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+This repository contains the main documentation for CIR users.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td><a href=".gitbook/assets/1.png">1.png</a></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td><a href=".gitbook/assets/3.png">3.png</a></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Servers documentation</strong></td><td>Documentation of CIR servers</td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>SciShare</strong></td><td>Storage server documentation</td><td><a href=".gitbook/assets/3.png">3.png</a></td><td></td><td><a href="servers-documentation/computational-server.md">computational-server.md</a></td></tr><tr><td><strong>Computational server</strong></td><td>Computational server documentation</td><td><a href=".gitbook/assets/4.png">4.png</a></td><td></td><td></td></tr></tbody></table>
